@@ -1,0 +1,14 @@
+program toStartInternship;
+
+uses
+  Vcl.Forms,
+  main in '\\SMART-ой\eco solvent\Delphi 10.3 Projects\main.pas' {MainForm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TMainForm, MainForm);
+  Application.Run;
+end.

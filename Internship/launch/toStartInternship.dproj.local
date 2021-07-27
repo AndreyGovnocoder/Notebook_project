@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.423,E:\eco solvent\Delphi 10.3 Projects\OrderBaseStart\OrderBaseStart.dproj=E:\eco solvent\Delphi 10.3 Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,E:\программирование\Delphi projects\toStartInternship\main.dfm=\\SMART-ПК\eco solvent\Delphi 10.3 Projects\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,E:\eco solvent\Delphi 10.3 Projects\main.pas=E:\eco solvent\Delphi 10.3 Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.901,E:\программирование\Delphi projects\toStartInternship\toStartInternship.dproj=\\SMART-ПК\eco solvent\Delphi 10.3 Projects\OrderBaseStart\OrderBaseStart.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=E:\eco solvent\Delphi 10.3 Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=E:\eco solvent\Delphi 10.3 Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,E:\eco solvent\Delphi 10.3 Projects\main.dfm=E:\eco solvent\Delphi 10.3 Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,E:\программирование\Delphi projects\toStartInternship\main.pas=\\SMART-ПК\eco solvent\Delphi 10.3 Projects\main.pas</Transaction>
+  </Transactions>
+</BorlandProject>

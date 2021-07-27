@@ -1,0 +1,13 @@
+﻿[Image1]
+Coordinates=10,10,57,58
+
+[ProgressBar1]
+Coordinates=77,10,93,58
+
+[Label1]
+Coordinates=180,10,53,58
+Visible=True
+
+[]
+Coordinates=148,78,91,36
+
